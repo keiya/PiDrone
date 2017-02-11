@@ -1,6 +1,6 @@
 # PiDrone
 
-![logo2](https://raw.githubusercontent.com/keiya/PiDrone/master/logo2.svg)
+![logo2](https://raw.githubusercontent.com/keiya/PiDrone/master/logo2.png)
 
 ## Concept
 * WebSocket based controll link
