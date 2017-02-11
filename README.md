@@ -1,5 +1,7 @@
 # PiDrone
 
+![logo2](https://raw.githubusercontent.com/keiya/PiDrone/master/logo2.svg)
+
 ## Concept
 * WebSocket based controll link
   * Control Uplink
