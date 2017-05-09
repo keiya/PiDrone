@@ -1,0 +1,17 @@
+{
+  "name": "pidrone-controller",
+  "author": "keiya",
+  "private": true,
+  "scripts": {
+    "install": "typings install"
+  },
+  "dependencies": {
+    "date-format": "^1.1.0"
+  },
+  "devDependencies": {
+    "typescript": "~2.3.2",
+    "typings": "^2.1.1"
+  },
+  "description": "Downlink Console"
+}
+
